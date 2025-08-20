@@ -17,50 +17,129 @@
 
 ## 💫 Hakkımda
 
-```javascript
-const muhammedArslan = {
-    fullName: "Muhammed Arslan",
-    title: "Full-Stack Developer & Mobile App Developer",
-    location: "Türkiye 🇹🇷",
-    expertise: {
-        mobile: ["React Native", "Flutter", "iOS", "Android"],
-        web: ["React.js", "Next.js", "Node.js", "TypeScript"],
-        ai: ["Machine Learning", "Deep Learning", "TensorFlow", "Python"],
-        backend: ["Node.js", "Express.js", "MongoDB", "PostgreSQL"],
-        tools: ["Git", "Docker", "AWS", "Firebase"]
-    },
-    currentFocus: "Yapay zeka destekli mobil ve web uygulamaları",
-    passion: "Teknoloji ile hayatı kolaylaştırmak",
-    
-    sayHello: () => {
-        return "Merhaba! Hayal ettiğiniz projeyi gerçeğe dönüştürelim! 🚀";
-    }
-};
-```
+<div align="center">
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Merhaba%2C+ben+Muhammed+Arslan!+%F0%9F%91%8B;Bilgisayar+M%C3%BChendisi+%F0%9F%8E%93;Teknoloji+tutkusu+ile+dolu+bir+geli%C5%9Ftirici+%F0%9F%9A%80" alt="Typing SVG" />
+
+</div>
+
+<br>
+
+<div align="center">
+  
+| <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **Kişisel Bilgiler** | <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> **Uzmanlık Alanları** |
+|:---|:---|
+| 🎓 **Eğitim:** Bilgisayar Mühendisliği | 📱 **Mobil Geliştirme** - iOS & Android |
+| 🌍 **Konum:** Türkiye 🇹🇷 | 🌐 **Web Geliştirme** - Full Stack |
+| 💼 **Durum:** Aktif Geliştirici | 🤖 **Yapay Zeka** - ML & Computer Vision |
+| 🎯 **Odak:** Yenilikçi Çözümler | 🔧 **Proje Yönetimi** - End-to-end |
+
+</div>
+
+<br>
+
+<div align="center">
+  
+### 🚀 **Geliştirmiş Olduğum Projeler**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
+
+**🎯 Odaklandığım Ana Alanlar:**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br>
+<strong>📱 MOBİL UYGULAMA</strong><br>
+<em>Cross-platform çözümler</em><br>
+<em>Native performans</em>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"><br>
+<strong>🌐 WEB GELİŞTİRME</strong><br>
+<em>Modern web teknolojileri</em><br>
+<em>Responsive tasarım</em>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ce755.gif" width="100"><br>
+<strong>🤖 YAPAY ZEKA</strong><br>
+<em>Görüntü işleme</em><br>
+<em>Makine öğrenmesi</em>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+  
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+**"Teknoloji ile hayatları dönüştürmeye odaklanıyorum"** 💡
+
+</div>
 
 ---
 
 ## 🚀 Uzmanlık Alanlarım
 
 <div align="center">
+  
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+
+</div>
+
+<div align="center">
 
 ### 📱 Mobil Geliştirme
+<img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,swift,kotlin,firebase" />
+<br><br>
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+
 ### 🌐 Web Geliştirme
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express" />
+<br><br>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 🤖 Yapay Zeka & ML
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ce755.gif" width="100">
+
+### 🤖 Yapay Zeka & Makine Öğrenmesi
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+<br><br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+
+### 🛠️ Araçlar & Teknolojiler  
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,mongodb,postgresql,figma,vscode" />
+<br><br>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+<div align="center">
+  
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
@@ -70,10 +149,26 @@ const muhammedArslan = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MuhammedArslan46&show_icons=true&theme=radical&hide_border=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedArslan46&theme=radical&hide_border=true" />
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedArslan46&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammedArslan46&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedArslan46&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
+
+</div>
+
+<div align="center">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedArslan46&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=F85D7F&dates=FFFFFF&sideLabels=FFFFFF"/>
+
+</div>
+
+<div align="center">
+  
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
@@ -83,7 +178,11 @@ const muhammedArslan = {
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=MuhammedArslan46&theme=radical&no-frame=true&row=1&column=7)](https://github.com/MuhammedArslan46)
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MuhammedArslan46&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/MuhammedArslan46)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d42b-4505-b9a4-d1b58e49d905.gif" width="200">
 
 </div>
 
@@ -130,7 +229,11 @@ graph TD
 
 <div align="center">
   
-[![Muhammed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammedArslan46&theme=react-dark&hide_border=true)](https://github.com/MuhammedArslan46)
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+
+[![Muhammed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammedArslan46&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF)](https://github.com/MuhammedArslan46)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
@@ -152,7 +255,7 @@ graph TD
 
 ---
 
-## 🎯 2024 Hedeflerim
+## 🎯 2025 Hedeflerim
 
 - 🚀 5+ yenilikçi mobil uygulama geliştirmek
 - 🤖 AI entegreli web uygulamaları oluşturmak
@@ -166,10 +269,10 @@ graph TD
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-arslan-517574233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-arslan-517574233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Muhammetarsln46)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:46mht123@gmail.com)
-
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://muhammedarslan.dev)
 
 </div>
 
